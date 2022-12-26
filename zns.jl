@@ -1,6 +1,6 @@
 @time begin
-	println("loading packages")
-	using GLMakie
+println("loading packages")
+using GLMakie
 end
 
 a = 1		# lattice constant
